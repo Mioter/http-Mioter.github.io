@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>测试</title>
+      <link href="/2022/05/05/%E6%B5%8B%E8%AF%95/"/>
+      <url>/2022/05/05/%E6%B5%8B%E8%AF%95/</url>
+      
+        <content type="html"><![CDATA[<p>这是一个摘要</p><span id="more"></span><p>这是更多内容，但是里面没有内容。唔～</p><hr><p>这是分割线</p><hr><blockquote><p>这是区块引用</p><blockquote><p>这是嵌套引用</p></blockquote></blockquote><hr><h1 id="这是1级菜单"><a href="#这是1级菜单" class="headerlink" title="这是1级菜单"></a>这是1级菜单</h1><h2 id="这是2级菜单"><a href="#这是2级菜单" class="headerlink" title="这是2级菜单"></a>这是2级菜单</h2><h3 id="这是3级菜单"><a href="#这是3级菜单" class="headerlink" title="这是3级菜单"></a>这是3级菜单</h3><h4 id="这是4级菜单"><a href="#这是4级菜单" class="headerlink" title="这是4级菜单"></a>这是4级菜单</h4><h5 id="这是5级菜单"><a href="#这是5级菜单" class="headerlink" title="这是5级菜单"></a>这是5级菜单</h5><h6 id="这是6级菜单"><a href="#这是6级菜单" class="headerlink" title="这是6级菜单"></a>这是6级菜单</h6><p><a href="https://mioter.github.io/">这是一条链接</a></p><hr><h3 id="这里有列表"><a href="#这里有列表" class="headerlink" title="这里有列表"></a>这里有列表</h3><h4 id="这是无序列表"><a href="#这是无序列表" class="headerlink" title="这是无序列表"></a>这是无序列表</h4><ul><li>列表1</li><li>列表2</li><li>列表3</li></ul><h4 id="这是有序列表"><a href="#这是有序列表" class="headerlink" title="这是有序列表"></a>这是有序列表</h4><ol><li>列表1</li><li>列表2</li><li>列表3</li></ol><hr><p><code>这是一个标记</code></p><p><em>这是一个斜体</em></p><p><strong>这是加粗</strong></p><hr><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo -v</span><br></pre></td></tr></table></figure><p>这是一个代码块</p><pre><code>print(&quot;呐呐呐～&quot;)</code></pre><h3 id="END"><a href="#END" class="headerlink" title="END"></a>END</h3>]]></content>
+      
+      
+      <categories>
+          
+          <category> 种类测试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 标签测试 </tag>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
